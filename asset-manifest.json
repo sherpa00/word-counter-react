@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sherpa00/word-counter-react.git/static/css/main.c568ff88.css",
+    "main.js": "/sherpa00/word-counter-react.git/static/js/main.30e11c98.js",
+    "static/js/787.8893dc06.chunk.js": "/sherpa00/word-counter-react.git/static/js/787.8893dc06.chunk.js",
+    "index.html": "/sherpa00/word-counter-react.git/index.html",
+    "main.c568ff88.css.map": "/sherpa00/word-counter-react.git/static/css/main.c568ff88.css.map",
+    "main.30e11c98.js.map": "/sherpa00/word-counter-react.git/static/js/main.30e11c98.js.map",
+    "787.8893dc06.chunk.js.map": "/sherpa00/word-counter-react.git/static/js/787.8893dc06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c568ff88.css",
+    "static/js/main.30e11c98.js"
+  ]
+}
